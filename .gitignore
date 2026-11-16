@@ -1,0 +1,14 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.zip
+__pycache__/
+*.pyc
+*.tfplan
+.env
+.env.*
+!.env.example
+*.tfvars
+*.tfvars.json
+.DS_Store
+.pytest_cache/
